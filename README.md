@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Lihuel:
 Soy Lihuel Zerega, un desarrollador web full stack con pasión por crear productos innovadores y de alta calidad. Tengo una sólida formación en el desarrollo de sitios web, y estoy siempre buscando nuevas formas de mejorar mis habilidades.<br><br>Soy un desarrollador autodidacta con un fuerte enfoque en la calidad y el rendimiento. Estoy constantemente aprendiendo nuevas tecnologías y estoy siempre dispuesto a ir más allá para hacer el trabajo.<br><br>Estoy buscando un trabajo en un equipo de desarrollo de software donde pueda usar mis habilidades y experiencia para crear productos que hagan una diferencia en el mundo. Estoy particularmente interesado en el desarrollo web.<br><br>Estoy seguro de que puedo ser un activo valioso para cualquier equipo. Soy un trabajador duro, soy un jugador de equipo, y siempre estoy dispuesto a ir más allá para hacer el trabajo.<br><br>Estoy emocionado de comenzar mi carrera como desarrollador web full stack. Estoy seguro de que puedo hacer contribuciones significativas a la industria de la tecnología.
 
 
